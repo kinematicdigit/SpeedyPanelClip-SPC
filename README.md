@@ -2,6 +2,9 @@
 
 A simple compliance mechanism based panel clip. No magnets, screws, twist keys, or springs. 
 
+<img width="50%" height="1570" alt="image" src="https://github.com/user-attachments/assets/211cb346-ec9b-4113-b07c-bc9fb7c2b4bf" />
+
+
 You just simply print, remove small print support, add optional filament position lock.
 
 To use, pull up the locking key, press the clip into the extrusion, then push the lock to secure it. You can apply additional pressure as you push the lock down to compress the sealing foam to ensure a secure seal. The compliance jaws will separate further as you press on that lock.
