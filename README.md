@@ -2,8 +2,8 @@
 
 A simple compliance mechanism based panel clip. No magnets, screws, twist keys, or springs. 
 
-<img width="50%" height="1570" alt="image" src="https://github.com/user-attachments/assets/211cb346-ec9b-4113-b07c-bc9fb7c2b4bf" />
 
+<img width="634" height="592" alt="image" src="https://github.com/user-attachments/assets/c0406373-1d30-4a52-9deb-893d29b0fdbc" />
 
 You just simply print, remove small print support, add optional filament position lock.
 
